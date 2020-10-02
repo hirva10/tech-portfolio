@@ -8,8 +8,8 @@ sentences about you! The rest of this page page can
 include a little bit about yourself. Some things you
 might include:
 
-1. Your current position
-1. Organizations you're involved with
+1. Software Engineer II @ Bank of America
+1. Open Source
 1. Your personal and professional values
 1. Hobbies or fun facts
 
